@@ -34,6 +34,6 @@ solution and demonstrates the setup and customization of an eCommerce platform w
 
 
 
-## 👤 Developed by![Uploading home_page1.png…]()
+## 👤 Developed 
 
 Walid Ayari
